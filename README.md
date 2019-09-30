@@ -1,4 +1,4 @@
-# coding_challenge
+# Hackerrank coding challenge
 
 cd/your project directory
 
