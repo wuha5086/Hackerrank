@@ -1,5 +1,7 @@
 # Hackerrank coding challenge
 
+Upload Project/Files On Github Using Command line:
+
 cd/your project directory
 
  1) git init
