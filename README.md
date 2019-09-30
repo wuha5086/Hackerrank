@@ -1,4 +1,4 @@
-# Hackerrank coding challenge
+# Hackerrank coding challenge in Python 3
 
 Upload Project/Files On Github Using Command line:
 
